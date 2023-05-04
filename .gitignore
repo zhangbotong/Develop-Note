@@ -1,0 +1,5 @@
+*.xml
+*.log
+*.pb
+*.idea/
+target/
